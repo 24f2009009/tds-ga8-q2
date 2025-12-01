@@ -11,8 +11,8 @@ paginate-style: "font-size: 12px; position: absolute; bottom: 10px; right: 20px;
 
 ---
 
-<!-- _background: url('background.jpg') -->
-<!-- _class: bg-cover -->
+_background: url('background.jpg')
+_class: bg-cover
 
 # Product Overview  
 This slide uses a full background image.
